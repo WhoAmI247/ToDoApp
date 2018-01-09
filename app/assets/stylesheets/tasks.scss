@@ -1,0 +1,33 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.bg-title{
+    background-color: #eee;
+    height: 150px;
+    width: auto;
+}
+
+.bg-title > div{
+    text-align: center;
+}
+
+.title-header{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.link-new-task{
+    background-color: #0063cc;
+    text-decoration:none;
+    color:#ffffff !important;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.link-new-task:hover{
+    background-color: #0063cc;
+    text-decoration:none;
+    color:#ffffff;
+}
