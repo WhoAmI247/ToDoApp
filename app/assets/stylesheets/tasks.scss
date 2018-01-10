@@ -31,3 +31,14 @@
     text-decoration:none;
     color:#ffffff;
 }
+
+.link-to-edit{
+    color:#1E90FF;
+    text-decoration:none;
+    
+}
+
+.link-to-edit:hover, .link-to-delete:hover{
+    background-color: #ffffff !important;
+    color:#1E90FF;
+}
